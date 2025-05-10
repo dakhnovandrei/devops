@@ -54,7 +54,7 @@ def test_create_user_with_invalid_email():
 
 def test_delete_user():
     '''Удаление пользователя'''
-    #бла123
+    #бла1234
     new_user = {
         "name": "To Delete",
         "email": "to.delete@mail.com"
